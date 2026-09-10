@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**cundong/cundong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Android developer based in Beijing, China.
 
-Here are some ideas to get you started:
+### What I do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+During my spare time, I work on:
+
+- [RePlugin](https://github.com/Qihoo360/RePlugin) — A flexible, stable, easy-to-use Android Plug-in Framework.
+- [SmartAppUpdates](https://github.com/cundong/SmartAppUpdates) — APK delta generation and reconstruction for Android.
+- [HeaderAndFooterRecyclerView](https://github.com/cundong/HeaderAndFooterRecyclerView) — A RecyclerView solution, support addHeaderView / addFooterView.
+- [ZhihuPaper](https://github.com/cundong/ZhihuPaper) — A lightweight Android daily-news reader focused on private, local-first reading.
+
+### Contact
+
+If you need to contact me for any reason, feel free to open an issue or reach me at [cundong.liu@gmail.com](mailto:your@email.com).
