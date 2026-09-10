@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 📍
 
 I'm an Android developer based in Beijing, China.
 
