@@ -8,7 +8,6 @@ During my spare time, I work on:
 
 - [RePlugin](https://github.com/Qihoo360/RePlugin) — A flexible, stable, easy-to-use Android Plug-in Framework.
 - [SmartAppUpdates](https://github.com/cundong/SmartAppUpdates) — APK delta generation and reconstruction for Android.
-- [HeaderAndFooterRecyclerView](https://github.com/cundong/HeaderAndFooterRecyclerView) — A RecyclerView solution, support addHeaderView / addFooterView.
 - [ZhihuPaper](https://github.com/cundong/ZhihuPaper) — A lightweight Android daily-news reader focused on private, local-first reading.
 
 ### Contact
